@@ -62,6 +62,10 @@ Check out my portfolio: [riancomarcellinoandreas.com](https://riancomarcellinoan
 - System Architecture
 - Cloud Technologies
 - Game Development
+- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelaritonang&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ## 🤝 Connect with Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://riancomarcellinoandreas.com)
