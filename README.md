@@ -17,7 +17,7 @@ Check out my personal portfolio: riancomarcellinoandreas.com
 - **Others**: Docker, LaTeX, Smart Contracts, Unity, Arduino, Google Colab, Kaggle, Spyder
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical](https://github.com/marcelaritonang))
 
 ---
 💡 Feel free to connect with me and explore my projects!
