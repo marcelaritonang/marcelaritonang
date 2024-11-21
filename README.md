@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in Web Development, Machine Learning, and Software Engineering.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelaritonang&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 🌟 About Me
 - 👨‍💻 I'm currently working on various web development projects
 - 📚 Learning and exploring new technologies in software development
@@ -42,10 +38,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaritonang&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelaritonang&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <details>
