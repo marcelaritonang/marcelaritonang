@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in Web Development, Machine Learning, and Software Engineering.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelaritonang&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
 ## 🌟 About Me
 - 👨‍💻 I'm currently working on various web development projects
 - 📚 Learning and exploring new technologies in software development
@@ -30,16 +34,21 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+### AI & ML Tools
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelaritonang&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaritonang&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <details>
@@ -63,6 +72,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 
 ## 🎯 Current Focus
 - 🌐 Web Development with React and Next.js
+- 🐳 Container Orchestration with Docker
 - 🤖 Machine Learning Projects
 - 🎮 Game Development with Unity
 - 📱 Mobile App Development
@@ -70,6 +80,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 
 ## 🌱 Learning & Improving
 - Advanced React Patterns
+- Docker & Container Management
 - Machine Learning Algorithms
 - System Architecture
 - Cloud Technologies
