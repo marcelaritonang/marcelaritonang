@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in Web Development, Machine Learning, and Software Engineering.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelaritonang&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 🌟 About Me
 - 👨‍💻 I'm currently working on various web development projects
 - 📚 Learning and exploring new technologies in software development
@@ -32,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
@@ -45,33 +42,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaritonang&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
-
-<details>
-  <summary>📈 Detailed GitHub Metrics</summary>
-  
-  ### Activity Stats
-  ⭐ Total Stars Earned  
-  ⌛ Total Commits (2024)  
-  🔀 Total PRs  
-  ❗ Total Issues  
-  💻 Contributed to Repositories  
-
-  ### Weekly Development Breakdown
-  ```text
-  JavaScript   █████████░░   80%
-  Python       ████░░░░░░░   40%
-  C++          ███░░░░░░░░   30%
-  HTML/CSS     ██████░░░░░   60%
-  ```
-</details>
-
 ## 🎯 Current Focus
 - 🌐 Web Development with React and Next.js
+- 🐍 Python Backend with Flask
 - 🐳 Container Orchestration with Docker
 - 🤖 Machine Learning Projects
 - 🎮 Game Development with Unity
@@ -80,6 +53,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 
 ## 🌱 Learning & Improving
 - Advanced React Patterns
+- Flask API Development
 - Docker & Container Management
 - Machine Learning Algorithms
 - System Architecture
@@ -92,7 +66,3 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 
 ---
 💡 Feel free to explore my repositories and don't hesitate to reach out for collaboration!
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcelaritonang&color=blue" alt="Profile Views" />
-</div>
