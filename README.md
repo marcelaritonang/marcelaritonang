@@ -64,8 +64,9 @@ Check out my portfolio: [riancomarcellinoandreas.com](https://riancomarcellinoan
 - Game Development
 
 ## 🤝 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://riancomarcellinoandreas.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelaritonang)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcelaritonang1303@gmail.com)
 
 ---
 💡 Feel free to explore my repositories and don't hesitate to reach out for collaboration!
