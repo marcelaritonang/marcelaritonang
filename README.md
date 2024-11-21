@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Web D
 - 🔍 Interested in creating impactful solutions through technology
 
 ## ⚡ Tech Stack
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frontend**: React.js, Next.js
+- **Languages**: JavaScript, Python, HTML, CSS, C, C++, C#
+- **Frontend**: React.js, Next.js, FramerMotion
 - **Backend**: Node.js, Express
-- **Tools & Platforms**: Git, GitHub, VS Code
-- **Other Technologies**: MongoDB, REST APIs
+- **Tools & Platforms**: Git, GitHub, VS Code, Unity, Arduino INO, Colab, Kaggle
+- **Other Technologies**: MySQL
 
 ## 📊 GitHub Stats
 
